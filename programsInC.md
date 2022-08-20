@@ -54,7 +54,7 @@ int main()
 }
 ```
 
-##Merge Sort
+## Merge sort
 
 ```sh
 /*  
