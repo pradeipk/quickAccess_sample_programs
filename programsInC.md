@@ -1,6 +1,8 @@
+# Sample programs in C 
 
 
-// simple C program for bubble sort
+## Bubble sort
+```sh
 #include <stdio.h>
 
 void bubbleSort(int arr[], int n)
@@ -45,3 +47,4 @@ int main()
     
     return 0;
 }
+```
