@@ -1,6 +1,10 @@
-Sample Programs in Java 
+# Sample Programs in Java 
 
-	#Reverse a string
+## Contents
+[Reverse a string](Reverse-a-string)
+
+
+## Reverse a string
 
 ```sh
 public class StringPrograms {
