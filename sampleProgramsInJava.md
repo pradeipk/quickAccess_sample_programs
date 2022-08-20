@@ -31,3 +31,46 @@ public class StringPrograms {
 }
 
 ```
+## Java Program to check if a vowel is present in the string?
+
+```sh
+public class StringContainsVowels {
+
+    public static void main(String[] args) {
+
+        System.out.println(stringContainsVowels("Hello")); // true
+        System.out.println(stringContainsVowels("TV")); // false
+
+    }
+
+    public static boolean stringContainsVowels(String input) {
+
+        return input.toLowerCase().matches(".*[aeiou].*");
+
+    }
+
+}
+
+```
+
+
+## Palindrome 
+```sh
+boolean checkPalindromeString(String input) {
+    boolean result = true;
+    int length = input.length();
+    for(int i=0; i < length/2; i++) {
+        if(input.charAt(i) != input.charAt(length-i-1)) {
+            result = false;
+            break;
+        }
+    }
+    return result;
+}
+```
+
+## Based on Java 8 Features
+
+
+
+
