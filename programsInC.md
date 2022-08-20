@@ -2,6 +2,9 @@
 
 [Quick link on how to edit markdown files](https://dillinger.io/)
 
+# Contents
+[Bubble sort](#Bubble-sort)
+
 ## Bubble sort
 ```sh
 #include <stdio.h>
