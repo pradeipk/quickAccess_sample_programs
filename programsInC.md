@@ -1,5 +1,6 @@
 # Sample programs in C 
 
+[Quick link on how to edit markdown files](https://dillinger.io/)
 
 ## Bubble sort
 ```sh
